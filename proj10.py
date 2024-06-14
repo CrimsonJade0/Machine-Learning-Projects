@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct 31 13:25:14 2023
-
+--------------------------------------------------------------------
+A first attempt at a neural network that takes in a csv list that is full of Social Network data 
+The full program bins the catagorical info, and trains the model to perdict what a set of data would like to see 
+--------------------------------------------------------------------
 @author: Blair Bram
 """
 import pandas as pd 
